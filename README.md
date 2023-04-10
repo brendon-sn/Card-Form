@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Tela do Site" src="" width="100%">
+  <img alt="Tela do Site" src="https://github.com/brendon-sn/Card-Form/blob/main/assets/home.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
